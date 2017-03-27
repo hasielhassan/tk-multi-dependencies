@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icon_256.png</file>
+    <file>failure_item.png</file>
+    <file>success_item.png</file>
+    <file>blue_circle.png</file>
+    <file>success.png</file>
+    <file>semaphore.png</file>
+    <file>work_file.png</file>
+  </qresource>
+</RCC>
