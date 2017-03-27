@@ -1,7 +1,7 @@
 # tk-multi-dependencies
 Shotgun Toolkit App to publish untracked dependencies into the pipeline
 
-![alt text](https://media.giphy.com/media/3o7TKvpXxxOjGcCbMA/source.gif "Gui Demo")
+![alt text](https://media.giphy.com/media/3o7btYPODXGW0WHpZe/giphy.gif "Gui Demo")
 
 #WIP
 
